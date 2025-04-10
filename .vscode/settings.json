@@ -1,5 +1,10 @@
 {
     "files.associations": {
-        "error.h": "c"
+        "error.h": "c",
+        "arch_init.h": "c",
+        "serial.h": "c",
+        "numa.h": "c",
+        "riscv_hart.h": "c",
+        "*.inc": "c"
     }
 }
